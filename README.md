@@ -1,7 +1,7 @@
 
 candidate: Shira Wild 
 
-Files decription:
+**Files decription:**
 
 1. "build_the_model.ipynb" - this file contains the whole data science process - Preprocessing for train and test data, transformations, feature selections, 
 building the final model by using search grid for tuning different models and parameters and evaluation phase for the final model.
